@@ -1,6 +1,6 @@
 
 def  hello(name):
-	return "Hello" + str(name)
+	return "Hello guys, nice to meet you " + str(name)
 def odejmij(a,b):
 	return a-b
 
