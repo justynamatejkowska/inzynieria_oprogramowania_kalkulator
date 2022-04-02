@@ -1,6 +1,8 @@
 
 def  hello(name):
 	return "Hello" + str(name)
+print ("jak miło cie widziec :)")
+
 def odejmij(a,b):
 	return a-b
 
